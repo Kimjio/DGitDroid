@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">DGitDroid</string>
+    <string name="menu_total">Total</string>
+    <string name="menu_weekly">Weekly</string>
+    <string name="menu_weekly_history">Weekly History</string>
+    <string name="menu_apply">Apply</string>
+    <string name="menu_info">Info</string>
+    <string name="information">only for</string>
+</resources>
